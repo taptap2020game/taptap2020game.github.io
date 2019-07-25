@@ -12,3 +12,7 @@ body > div > h1, p{
 .text-center{
 	text-align: center;
 }
+
+.footer{
+	margin: 25px;
+}
